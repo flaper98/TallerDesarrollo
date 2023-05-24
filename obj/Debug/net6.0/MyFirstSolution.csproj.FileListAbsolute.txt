@@ -1,0 +1,5 @@
+C:\Universidad Nacional de Ucayali\CICLO-2023-I\TALLER DE DESARROLLO\MyFirstSolution\obj\Debug\net6.0\MyFirstSolution.csproj.AssemblyReference.cache
+C:\Universidad Nacional de Ucayali\CICLO-2023-I\TALLER DE DESARROLLO\MyFirstSolution\obj\Debug\net6.0\MyFirstSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad Nacional de Ucayali\CICLO-2023-I\TALLER DE DESARROLLO\MyFirstSolution\obj\Debug\net6.0\MyFirstSolution.AssemblyInfoInputs.cache
+C:\Universidad Nacional de Ucayali\CICLO-2023-I\TALLER DE DESARROLLO\MyFirstSolution\obj\Debug\net6.0\MyFirstSolution.AssemblyInfo.cs
+C:\Universidad Nacional de Ucayali\CICLO-2023-I\TALLER DE DESARROLLO\MyFirstSolution\obj\Debug\net6.0\MyFirstSolution.csproj.CoreCompileInputs.cache

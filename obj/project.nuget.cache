@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8kYoFdVJQw0+rjFDGfASN6QADyphTQC4XMi3tiWHc6/xeehK69I7gDVRGOuHUgNN4m2DnbaW3rSe6x5IDwtlA==",
+  "success": true,
+  "projectFilePath": "C:\\Universidad Nacional de Ucayali\\CICLO-2023-I\\TALLER DE DESARROLLO\\MyFirstSolution\\MyFirstSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flavi\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\flavi\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
